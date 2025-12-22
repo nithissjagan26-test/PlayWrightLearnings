@@ -16,3 +16,5 @@ const c = 5.6;
 console.log(c)
 console.log(typeof(c))
 console.log(typeof(required))
+
+console.log("Final Word")
